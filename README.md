@@ -40,4 +40,4 @@ Complete the following steps:
 
 # Solution
 
-<p align='center'> <img src='Dashboard/dashboard.png'></p>
+<p align='center'> <img src='Dashboard/dashboard.PNG'></p>
